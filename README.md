@@ -152,4 +152,7 @@ This system would be created to semlessly work with the property management data
 ### Using HTTPS
 - This would help prevent attacks from any third party as the dat is sent from the client's device to the servers.
 ## CI/CD Pipeline Overview
+- CI/CD pipelines help develop a feedback loop that enables faster deployment of changes to an app as well as making these deployments more reliable.
+  ### Github Actions
+- This could be used to run tests on the written code as well as build complete projects. Anything made or changed can then be saved to the cloud
 
