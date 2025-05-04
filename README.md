@@ -113,7 +113,26 @@ Each component will be designed for reusability and consistency across the appli
   |Business Analyst     |- Understands customer’s business processes<br>- Translates customer business needs into requirements|
   |Test Automation Engineer |- Designs a test automation ecosystem<br>- Writes and maintains test scripts for automated testing|
 ## Technology Stack Overview
+### Backend:
+- Java, Kotlin, Python. These were chosen because of the level of security you get while using java, interoperability and the ease of use in pricing models, fraud detection and searching
+### Infrastructure:
+- MySQL, Apache Kafka, ElasticSearch. MySql was chosen as the primary relational database for data storage, ElastSearch was chosen because it enables full text search and Apache Kafka was chosen because it can be used for a message querry system that processes different things at the same time.
 ## Database Design Overview
+### Users
+- Users Names
+- Users Contact information
+- Users Address
+### Properties
+- Property locations
+- Number of rooms
+- Amenities around the property
+### Reviews
+- Star system to gauge what other people rate the property
+- Full sentence reviews on what previous customers liked and did not like
+### Payments
+- Different options for payment
+- A window that directs users to put their card information
+- A checkbox confirming they have read the terms and conditions before proceeding with payment
 ## Feature Breakdown
 ## API Security Overview
 ## CI/CD Pipeline Overview
