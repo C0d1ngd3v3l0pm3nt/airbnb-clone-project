@@ -14,10 +14,10 @@ This project is a full-stack clone of the popular accommodation booking platform
 - [Database design overview](#database-design-overview)
 - [Feature breakdown](#feature-breakdown)
 - [API Security overview](#api-security-overview)
-- [CI/CD Pipeline Overview](#ci-cd-pipeline)
+- [CI/CD Pipeline Overview](#ci-cd-pipeline-overview)
 
 ## Project initialization
-## UI/UX Planning
+## UI/UX planning
 ## More UI/UX planning
 ## Project roles and responsibilities
 ## UI components and patterns
@@ -27,5 +27,5 @@ This project is a full-stack clone of the popular accommodation booking platform
 ## Database Design Overview
 ## Feature Breakdown
 ## API Security Overview
-## CI/CD Pipeline
+## CI/CD Pipeline Overview
 
