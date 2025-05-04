@@ -2,19 +2,19 @@
 This project is a full-stack clone of the popular accommodation booking platform AirBnB
 ## Table of contents
 ### Frontend Development
-- [Project initialization](#Projectinitialization)
-- [UI/UX planning](#UI/UXplanning)
-- [More UI/UX planning](#MoreUI/UXplanning)
-- [Project roles and responsibilities](#ProjectRolesandResponsibilities)
-- [UI components and patterns](#UIcomponentsandPatterns)
+- [Project initialization](#project-initialization)
+- [UI/UX planning](#ui/ux-planning)
+- [More UI/UX planning](#more-ui/ux-planning)
+- [Project roles and responsibilities](#project-roles-and-responsibilities)
+- [UI components and patterns](#ui-components-and-patterns)
 
 ### Backend development
-- [Team roles and responsibilities](#TeamRoleaandResponsibilities)
-- [Technology stack overview](#TechnologyStackOverview)
-- [Database design overview](#DatabaseDesignOverview)
-- [Feature breakdown](#FeatureBreakdown)
-- [API Security overview](#APISecurityOverview)
-- [CI/CD Pipeline Overview](#CI/CDPipeline)
+- [Team roles and responsibilities](#team-roles-and-responsibilities)
+- [Technology stack overview](#technology-stack-overview)
+- [Database design overview](#database-design-overview)
+- [Feature breakdown](#feature-breakdown)
+- [API Security overview](#api-security-overview)
+- [CI/CD Pipeline Overview](#ci/cd-pipeline)
 
 ## Project initialization
 ## UI/UX Planning
