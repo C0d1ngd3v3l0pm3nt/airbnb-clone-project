@@ -134,6 +134,16 @@ Each component will be designed for reusability and consistency across the appli
 - A window that directs users to put their card information
 - A checkbox confirming they have read the terms and conditions before proceeding with payment
 ## Feature Breakdown
+### User Management
+- A database would store user information such as the user's contact information so that they can better manage their bookings
+### Property Management
+- A database would store information on all the available properties and this database could potentially be accessed through a search narrowed down to area so that the customer gets what they want.
+### Booking Systems
+This system would be created to semlessly work with the property management database to help customers pick the property they want to stay at.
+### Payment Systems
+- This system would help the users pay for their stay at any of the properties they have chosen. This system will have to integrate different ways of payment to reach different customers
+### Rating Systems
+- This would allow people to rate the properties they stayed at based on their experiences and whether they would recommend someone else stay at that property
 ## API Security Overview
 ## CI/CD Pipeline Overview
 
