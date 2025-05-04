@@ -3,8 +3,8 @@ This project is a full-stack clone of the popular accommodation booking platform
 ## Table of contents
 ### Frontend Development
 - [Project initialization](#project-initialization)
-- [UI/UX planning](#ui/ux-planning)
-- [More UI/UX planning](#more-ui/ux-planning)
+- [UI/UX planning](#ui-ux-planning)
+- [More UI/UX planning](#more-ui-ux-planning)
 - [Project roles and responsibilities](#project-roles-and-responsibilities)
 - [UI components and patterns](#ui-components-and-patterns)
 
@@ -14,7 +14,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 - [Database design overview](#database-design-overview)
 - [Feature breakdown](#feature-breakdown)
 - [API Security overview](#api-security-overview)
-- [CI/CD Pipeline Overview](#ci/cd-pipeline)
+- [CI/CD Pipeline Overview](#ci-cd-pipeline)
 
 ## Project initialization
 ## UI/UX Planning
