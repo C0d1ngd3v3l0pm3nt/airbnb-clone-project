@@ -101,6 +101,17 @@ Secondary Text: Circular, Book (400), 14px
 Each component will be designed for reusability and consistency across the application.
 
 ## Team Roles and Responsibilities
+  |Role                 |Responsibilities|
+  |:-------             |:--------:|
+  |Project Manager      |- Makes sure a product or its part is delivered on time and within budget<br>- Manages and motivates the software development team|
+  |Software Architect   |-	Designs a high-level software architecture<br>- Selects appropriate tools and platforms to implement the product vision<br>- Sets up code quality standards and performs code reviews|
+  |Software Developers  |- Engineers and stabilizes the product<br>- Solves any technical problems emerging during the development lifecycle|
+  |UI/UX Designers      |- Transforms a product vision into user-friendly designs<br>- Creates user journeys for the best user experience and highest conversion rates|
+  |QA/Testers           |- Makes sure an application performs according to requirements<br>- Spots functional and non-functional defects|
+  |DevOps Engineers     |- Facilitates cooperation between development and operations teams<br>- Builds continuous integration and continuous delivery (CI/CD) pipelines for faster delivery| 
+  |Product Owner        |- Holds responsibility for a product vision and evolution<br>- Makes sure the final product meets customer requirements|
+  |Business Analyst     |- Understands customer’s business processes<br>- Translates customer business needs into requirements|
+  |Test Automation Engineer |- Designs a test automation ecosystem<br>- Writes and maintains test scripts for automated testing|
 ## Technology Stack Overview
 ## Database Design Overview
 ## Feature Breakdown
