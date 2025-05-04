@@ -145,5 +145,11 @@ This system would be created to semlessly work with the property management data
 ### Rating Systems
 - This would allow people to rate the properties they stayed at based on their experiences and whether they would recommend someone else stay at that property
 ## API Security Overview
+### Rate Limiting
+- This would limit the number of bookings being made from the same device or from the same network and help prevent brute force attacks
+### Authentication
+- This would be required to approve any transaction with money to ensure it is the true owner of the device who is making the purchase
+### Using HTTPS
+- This would help prevent attacks from any third party as the dat is sent from the client's device to the servers.
 ## CI/CD Pipeline Overview
 
