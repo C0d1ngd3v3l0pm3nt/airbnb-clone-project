@@ -5,8 +5,8 @@ This project is a full-stack clone of the popular accommodation booking platform
 - [Project initialization](#project-initialization)
 - [UI/UX Design Planning](#uiux-design-planning)
 - [More UI/UX planning](#more-uiux-planning)
-- [Project roles and responsibilities](#project-roles-and-responsibilities)
-- [UI components and patterns](#ui-components-and-patterns)
+- [Project Roles and Responsibilities](#project-roles-and-responsibilities)
+- [UI Component Patterns](#ui-component-patterns)
 
 ### Backend development
 - [Team roles and responsibilities](#team-roles-and-responsibilities)
@@ -67,7 +67,7 @@ Primary Font: Circular, Medium (500), 16px
 Headings: Circular, Bold (700), 24px-32px
 Secondary Text: Circular, Book (400), 14px
 
-## Project roles and responsibilities
+## Project Roles and Responsibilities
   |###Role              |Responsibilities|
   |:-------             |:--------:|
   |Project Manager      |Oversees timeline, coordinates team, manages deliverables|
@@ -79,7 +79,7 @@ Secondary Text: Circular, Book (400), 14px
   |Product Owner        |Defines requirements, prioritizes features, represents stakeholders|
   |Scrum Master         |Facilitates agile processes, removes blockers, organizes meetings|
   
-## UI components and patterns
+## UI Component Patterns
 ### Planned Components
 #### Navbar
 -Logo
